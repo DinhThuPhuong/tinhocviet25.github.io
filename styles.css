@@ -125,6 +125,11 @@ nav {
     color: #333;
 }
 
+.row {
+    padding: 5;
+
+}
+
 /* Footer */
 footer {
     background-color: #333;
